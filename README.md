@@ -1,18 +1,15 @@
-# COURSEWORK NAME
+You will be starting from scratch a new website project:
 
-Replace this readme with the requirements for your coursework
+EXPECTATION: Create a new recipe page for your favourite meal and how to make it and where it comes from making sure you put into practice the techniques learnt throughout the week. 
 
-## Learning Objectives
-- [ ] Use the [Teach Tech Together](https://teachtogether.tech/en/index.html#s:process-objectives) guide to construct your objectives
-- [ ] Limit the objectives to 3-5 items
-- [ ] Write objectives you can measure
+This website should be source controlled with git and needs to have clear branching strategy.
+
 
 ## Requirements
-
-Explain the requirements of the coursework. You might want to talk about goals here. 
-You might want to use formal specifications like Given/When/Then. It's ok for requirements to be in different formats.
-We want trainees to learn to interpret requirements in many settings and expressions.
-
+Submitting your work
+- Remember to commit and push your code often.
+- Get your colleagues/Volunteers to review prs to main as often during the week and use Saturday as an opportunity to improve website
+Note: If you've added your code to the same branch you were using last week, then it will just update your original Pull Request and you won't need a new PR to this project.
 ## Acceptance Criteria
 
 - [ ] I have provided clear success criteria
